@@ -1,6 +1,6 @@
 {
   "name": "demo-semantic-versioning",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Práctica de Semantic Versioning - AUY1102",
   "scripts": {
     "start": "node index.js"
