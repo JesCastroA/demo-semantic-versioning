@@ -28,7 +28,7 @@ git config --global user.email "tu-correo@duocuc.cl"
 ## 1. Fork del repositorio (5 min)
 
 1. Entra a: `https://github.com/nancyB3a`
-2. Busca el repositorio de la actividad indicado por tu docente.
+2. Busca el repositorio de la actividad `demo-semantic-versioning` .
 3. Clic en **"Fork"** (esquina superior derecha).
 4. Confirma la creación bajo tu propia cuenta de GitHub.
 
